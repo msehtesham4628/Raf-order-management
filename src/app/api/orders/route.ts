@@ -48,3 +48,4 @@ function simulateStatusUpdates(orderId: string) {
         }, (index + 1) * 30000); // Update every 30 seconds
     });
 }
+

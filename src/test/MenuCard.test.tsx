@@ -24,3 +24,4 @@ describe('MenuCard Component', () => {
         expect(onAdd).toHaveBeenCalledWith(mockItem);
     });
 });
+

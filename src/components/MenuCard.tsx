@@ -46,3 +46,4 @@ export default function MenuCard({ item, onAdd }: MenuCardProps) {
         </motion.div>
     );
 }
+

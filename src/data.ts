@@ -53,3 +53,4 @@ const globalForData = globalThis as unknown as {
 export const orders = globalForData.orders ?? [];
 
 if (process.env.NODE_ENV !== 'production') globalForData.orders = orders;
+

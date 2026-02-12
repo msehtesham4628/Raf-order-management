@@ -41,3 +41,4 @@ body {
 @utility btn-primary {
   @apply bg-orange-500 hover:bg-orange-600 text-white px-6 py-3 rounded-full font-semibold transition-all duration-300 shadow-lg active:scale-95;
 }
+
