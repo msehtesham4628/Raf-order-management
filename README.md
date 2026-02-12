@@ -30,7 +30,7 @@ A premium, high-performance food delivery order management feature. This project
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/safiyaRafi/Raf-order-management.git
+   git clone https://github.com/msehtesham4628/Raf-order-management.git
    ```
 2. Install dependencies:
    ```bash
